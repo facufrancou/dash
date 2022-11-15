@@ -1,0 +1,38 @@
+
+body{
+  background-color: rgb(245, 0, 0);
+}
+img{
+  width: 100%;
+  height: 100%;
+}
+.btn-edit{
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+.h-50{
+  height: 10px;
+}
+#img-product{
+  margin: auto;
+  width: 55%;
+}
+.form-login{
+  margin-top: 100px;
+  padding-bottom: 50px;
+  border: 1px solid rgb(124, 124, 124);
+  border-radius: 5%
+}
+.img-login{
+  display: block;
+  margin: auto;
+  width: 50%;
+  margin-top: 20px;
+}
+#img-nav{
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
